@@ -12,9 +12,5 @@
                 "gmail.js"
             ]
         }
-    ],
-    "background": {
-        "service_worker": "gmail.js",
-        "type": "module"
-      }
+    ]
 }
